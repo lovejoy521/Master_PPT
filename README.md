@@ -1,6 +1,6 @@
 #README
 ---
->本项目使用[impress.js](/js/impress 'impress.js')
+>鏈」鐩娇鐢╗impress.js](/js/impress 'impress.js')
 ===
     <script type='text/javascript' src="impress.js"
     </script>
